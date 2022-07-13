@@ -8,3 +8,4 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 =>Wind speed 
 
 =>Precipitation information
+
