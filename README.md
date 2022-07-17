@@ -9,3 +9,4 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 
 =>Precipitation information
 
+=>Live - https://pranavbajpai38.github.io/Weather-Omniscient/
